@@ -54,10 +54,13 @@ a {
   a:hover {
     color: #009ce0; }
 
+.nav{
+    background-color: black
+}
+
 .firstnav-active {
-        background-color: black;
+
         width:150px;
-        border:1px solid white;
         height:50px;
         line-height:50px;
         text-align:center;
@@ -67,9 +70,7 @@ a {
 }
 
 .secondnav-active {
-    background-color: black;
     width:150px;
-    border:1px solid white;
     height:50px;
     line-height:50px;
     text-align:center;
