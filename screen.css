@@ -54,7 +54,7 @@ a {
   a:hover {
     color: #009ce0; }
 
-.nav  {
+.firstnav-active {
         background-color: black;
         width:150px;
         border:1px solid white;
