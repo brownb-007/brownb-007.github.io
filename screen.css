@@ -54,9 +54,7 @@ a {
   a:hover {
     color: #009ce0; }
 
-nav {
-    background-color: black;
-}
+
 
 .firstnav-active {
         width:150px;
@@ -66,6 +64,7 @@ nav {
         float: left;
         color: white;
         font-size: 20px;
+        background-color: black;
 }
 
 .secondnav-active {
@@ -76,4 +75,5 @@ nav {
     float: left;
     color: white;
     font-size: 20px;
+    background-color: black;
 }
