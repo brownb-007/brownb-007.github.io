@@ -59,7 +59,7 @@ a {
 }
 
 #container ul li{
-  background-color: black
+  background-color: black;
   width:150px;
   border:1px solid white;
   height:50px;
