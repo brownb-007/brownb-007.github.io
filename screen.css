@@ -54,5 +54,15 @@ a {
   a:hover {
     color: #009ce0; }
 
-#main {
-  padding: 50px; }
+#container ul{
+  list-style: none;
+}
+
+#container ul li{
+  background-color: black
+  width:150px;
+  border:1px solid white;
+  height:50px;
+  line-height:50px;
+}
+
