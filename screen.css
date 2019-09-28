@@ -59,7 +59,6 @@ a {
         width:150px;
         height:50px;
         line-height:50px;
-        text-decoration:none;
         text-align:center;
         float: left;
         color: white;
@@ -67,16 +66,23 @@ a {
         background-color: black;
 }
 
+.firstnav-active a {
+    text-decoration: none;
+}
+
 .secondnav-active {
     width:150px;
     height:50px;
     line-height:50px;
     text-align:center;
-    text-decoration:none;
     float: left;
     color: white;
     font-size: 20px;
     background-color: black;
+}
+
+.secondnav-active a {
+    text-decoration: none;
 }
 
 .dropbtn {
@@ -87,7 +93,7 @@ a {
     text-decoration:none;
     float: left;
     color: white;
-    font-size: 20px;
+    font-size: 18px;
     background-color: black;
     border:none;
 }
