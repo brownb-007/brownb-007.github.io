@@ -54,6 +54,13 @@ a {
   a:hover {
     color: #009ce0; }
 
+h1 {
+    color: aqua;
+    background-color: black;
+    font-size: 36px;
+    text-align: center;
+}
+
 
 .firstnav-active {
         width:150px;
@@ -66,7 +73,7 @@ a {
         background-color: black;
 }
 
-.firstnav-active a {
+.firstnav-link a {
     text-decoration: none;
 }
 
@@ -81,7 +88,7 @@ a {
     background-color: black;
 }
 
-.secondnav-active a {
+.secondnav-link {
     text-decoration: none;
 }
 
