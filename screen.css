@@ -65,6 +65,7 @@ a {
         color: white;
         font-size: 20px;
         background-color: black;
+        text-decoration: none;
 }
 
 .secondnav-active {
@@ -76,4 +77,5 @@ a {
     color: white;
     font-size: 20px;
     background-color: black;
+    text-decoration: none;
 }
