@@ -85,10 +85,11 @@ a {
     padding: 16px;
     font-size: 20px;
     border: none;
+    text-align: center;
 }
 
 .dropdown {
-    position: relattive;
+    position: relative;
     display: inline-block;
 }
 
