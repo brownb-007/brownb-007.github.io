@@ -78,3 +78,37 @@ a {
     font-size: 20px;
     background-color: black;
 }
+
+.dropbtn {
+    background-color:black;
+    color:white;
+    padding: 16px;
+    font-size: 20px;
+    border: none;
+}
+
+.dropdown {
+    position: relattive;
+    display: inline-block;
+}
+
+.dropdown-content{
+    display:none;
+    position: absolute;
+    background-color: grey;
+    z-index:1;
+}
+
+
+.dropdown-content a {
+    color:black;
+    padding: 14px 18px;
+    text-decoration: none;
+    display: block;
+}
+
+.dropdown-content a:hover {background-color: white;}
+
+.dropdown:hover .dropdown-content {display: block;}
+
+.dropdown:hover .dropbtn {background-color: grey;}
