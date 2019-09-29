@@ -75,7 +75,7 @@ h1 {
         background-color: black;
 }
 
-.firstnav-link a {
+.firstnav-link {
     text-decoration: none;
 }
 
@@ -107,7 +107,7 @@ h1 {
     border:none;
 }
 
-.dropdown-item {
+.dropbtn .dropdown-item {
         position: relative;
         display: inline-block;
       }
