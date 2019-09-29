@@ -107,6 +107,7 @@ h1 {
     border:none;
 }
 
-.dropdown-item {
-    text-align: center;
-}
+.dropdown-item .dropbtn {
+        position: relative;
+        display: inline-block;
+      }
