@@ -109,4 +109,6 @@ h1 {
 
 .dropdown-item .dropbtn {
     text-decoration: none;
+    position: relative;
+    display: inline-block;
 }
