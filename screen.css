@@ -102,13 +102,13 @@ h1 {
     line-height:50px;
     text-align:center;
     text-decoration:none;
-    color: green;
+    color: white;
     font-size: 18px;
     background-color: black;
     border:none;
     float: left;
 }
 
-.dropdown a {
-    display: inline;
+.dropbtn .dropdown-item {
+    display: inline-block;
 }
