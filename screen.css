@@ -108,3 +108,7 @@ h1 {
     background-color: black;
     border:none;
 }
+
+.dropdown-item .dropbtn {
+    display: inline-block;
+}
