@@ -65,10 +65,10 @@ h1 {
 }
 
 
-img {
-    padding: 40px; 
+img { 
     margin-left: auto;
     margin-right: auto;
+    display: block;
 }
 
 
