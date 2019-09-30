@@ -67,7 +67,9 @@ h1 {
 
 .img1 {
     padding: 40px; 
-    float: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 
