@@ -57,7 +57,7 @@ a {
 h1 {
     color: aqua;
     background-color: black;
-    text-shadow: 1px 2px 5px #d5e2e6;
+    text-shadow: 1px 2px 30px #d5e2e6;
     font-size: 48px;
     font-family: 'Mansalva', cursive;
     padding: 100px;
