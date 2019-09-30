@@ -57,18 +57,13 @@ a {
 h1 {
     color: aqua;
     background-color: black;
-    text-shadow: 1px 2px 5px #0388a6;
+    text-shadow: 1px 2px 5px #d5e2e6;
     font-size: 48px;
     font-family: 'Mansalva', cursive;
     padding: 100px;
     text-align: center;
 }
 
-p {
-    float:right;
-    color: green;
-    text-shadow: 1px 2px 4px #2a2a2a;
-}
 
 .img1 {
     padding: 40px;
