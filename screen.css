@@ -55,7 +55,7 @@ a {
     color: #009ce0; }
 
 h1 {
-    color: blue;
+    color: aqua;
     background-color: black;
     font-size: 48px;
     font-family: 'Mansalva', cursive;
@@ -102,9 +102,13 @@ h1 {
     line-height:50px;
     text-align:center;
     text-decoration:none;
-    color: rgb(85, 84, 160);
+    color: white;
     font-size: 18px;
     background-color: black;
     border:none;
+    float: left
+}
+
+.dropbtn a {
     display: inline-block;
 }
