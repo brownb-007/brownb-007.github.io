@@ -57,10 +57,10 @@ a {
 h1 {
     color: aqua;
     background-color: black;
-    text-shadow: 1px 2px 2px rgba(0, 255, 255, 0.747);
+    text-shadow: 1px 2px 5px #0388a6;
     font-size: 48px;
     font-family: 'Mansalva', cursive;
-    padding: 150px;
+    padding: 100px;
     text-align: center;
 }
 
