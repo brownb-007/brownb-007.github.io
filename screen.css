@@ -120,6 +120,9 @@ h1 {
 
 .dropbutton-items {
     display: inline-block;
+}
+
+.dropdown-item {
     text-decoration: none;
     color: green;
 }
