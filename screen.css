@@ -102,6 +102,7 @@ h1 {
     color: white;
 }
 
+
 .dropbtn {
     width:150px;
     height:50px;
@@ -113,5 +114,9 @@ h1 {
     background-color: black;
     border:none;
     float: left;
+}
+
+.dropbutton-items {
+    display: inline-block;
 }
 
