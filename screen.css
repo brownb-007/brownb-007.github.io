@@ -138,10 +138,15 @@ h1 {
     float: left;
     width: 30%;
     padding: 10px;
-    height: 200px;
+    height: 400px;
     position: relative;
     color:white;
     background-image: url(wood.png);
     font-size: 20px;
     text-align: center;
+}
+
+.undertext {
+  display: inline-block;
+  color: green;
 }
