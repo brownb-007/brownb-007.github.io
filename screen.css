@@ -131,7 +131,8 @@ h1 {
 .dropdown-item {
     text-decoration: none;
     color: rgb(255, 153, 0);
-    background: black;
+    background-color: black;
+    padding: 3px;
 }
 
 .column {
@@ -145,5 +146,10 @@ h1 {
     font-size: 20px;
     text-align: center;
     text-decoration: none;
+}
+
+.column-button {
+  color: white;
+  text-decoration: none;
 }
 
