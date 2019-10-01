@@ -148,4 +148,6 @@ h1 {
 
 .row p {
   color: red;
+  display: inline-block;
+  position: relative;
 }
