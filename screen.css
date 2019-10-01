@@ -145,9 +145,3 @@ h1 {
     font-size: 20px;
     text-align: center;
 }
-
-p {
-  color: red;
-  display: inline-block;
-  position: relative;
-}
