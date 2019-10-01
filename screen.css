@@ -133,3 +133,10 @@ h1 {
     text-decoration: none;
     color: rgb(255, 153, 0);
 }
+
+.column {
+    float: left;
+    width: 30%;
+    padding: 10px;
+    height: 200px;
+}
