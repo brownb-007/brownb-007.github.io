@@ -54,6 +54,7 @@ a {
   a:hover {
     color: #009ce0; }
 
+    /* Header */
 h1 {
     color: aqua;
     text-shadow: 10px 10px 30px #121516;
@@ -64,6 +65,7 @@ h1 {
     background-image: url(Sisters.png);
 }
 
+/* Fist Immage on page*/
 .image1 {
     margin-left: auto;
     margin-right: auto;
@@ -71,7 +73,7 @@ h1 {
     padding: 60px;
 }
 
-
+/*First link in the navbar */
 .firstnav-active {
         width:150px;
         height:50px;
@@ -88,6 +90,7 @@ h1 {
     color: white;
 }
 
+/*Second link in the navbar */
 .secondnav-active {
     width:150px;
     height:50px;
@@ -104,7 +107,7 @@ h1 {
     color: white;
 }
 
-
+/* Assignments Button*/
 .dropbtn {
     width:150px;
     height:50px;
@@ -118,11 +121,13 @@ h1 {
     float: left;
 }
 
+/* Unordered list of links*/
 .dropbutton-items {
     display: inline-block;
     padding: 5px;
 
 }
+
 
 .dropdown-item {
     text-decoration: none;
