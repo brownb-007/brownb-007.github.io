@@ -146,7 +146,7 @@ h1 {
     text-align: center;
 }
 
-.row p {
+p {
   color: red;
   display: inline-block;
   position: relative;
