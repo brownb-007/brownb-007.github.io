@@ -124,8 +124,8 @@ h1 {
 /* Unordered list of links*/
 .dropbutton-items {
     display: inline-block;
-    padding: 5px;
-
+    padding: 10px;
+    background-color: black;
 }
 
 
@@ -144,15 +144,6 @@ h1 {
     background-image: url(wood.png);
     font-size: 20px;
     text-align: center;
-
+    text-decoration: none;
 }
 
-.column p {
-  padding: 15px;
-  font-size: 20px;
-}
-
-.column-button {
-  color: white;
-  text-decoration: none;
-}
