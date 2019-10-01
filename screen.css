@@ -145,3 +145,12 @@ h1 {
     font-size: 20px;
     text-align: center;
 }
+
+.column p {
+  padding: 10px;
+}
+
+column-button {
+  color: white;
+  text-decoration: none;
+}
