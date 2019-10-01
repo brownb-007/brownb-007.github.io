@@ -147,7 +147,8 @@ h1 {
     text-align: center;
 }
 
-.column p a {
-  color: white;
-  text-decoration: none;
+.column .column-button {
+    color: white;
+    text-decoration:none;
 }
+
