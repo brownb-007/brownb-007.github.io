@@ -62,7 +62,8 @@ h1 {
     font-family: 'Mansalva', cursive;
     padding: 100px;
     text-align: center;
-    background-image: url('../backgroundimg.png');
+    background-image: url('backgroundimg.png');
+    background-repeat: repeat-x;
 }
 
 .image1 {
