@@ -146,11 +146,11 @@ h1 {
     display: block;
 }
 
-.dropdown-items a:hover {background-color: #ddd;}
+.dropbutton-items a:hover {background-color: #ddd;}
 
-.dropdown:hover .dropdown-items {display: block;}
+.dropdown:hover .dropbutton-items {display: block;}
 
-.dropdown:hover .dropbtn {background-color: #3e8e41;}
+.dropdown:hover .dropbtn {background-color: grey;}
 
 
 
