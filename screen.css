@@ -121,12 +121,12 @@ h1 {
     float: left;
 }
 
+/* Dropdown*/
 .dropdown {
     position: relative;
     display: inline-block;
   }
 
-/* Unordered list of links*/
 
 .dropbutton-items {
     display: none;
