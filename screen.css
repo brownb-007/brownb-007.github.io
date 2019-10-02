@@ -129,7 +129,6 @@ h1 {
 
 
 .dropbutton-items {
-    display: none;
     position: absolute;
     background-color: black;
     min-width: 160px;
