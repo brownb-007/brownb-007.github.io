@@ -128,11 +128,12 @@ h1 {
     padding: 5px;
 }
 
-.drop-item {
+#item {
     font-size: 18px;
     text-decoration: none;
     color: rgb(255, 153, 0);
     background-color: black;
+    padding: 2px;
 }
 
 
