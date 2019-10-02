@@ -137,16 +137,15 @@ h1 {
     z-index: 1;
 }
 
-#item {
+.dropbutton-items a {
     font-size: 18px;
     text-decoration: none;
     color: rgb(255, 153, 0);
-    background-color: black;
     padding: 2px;
     display: block;
 }
 
-.dropbutton-items a:hover {background-color: #ddd;}
+.dropbutton-items a:hover {background-color: black;}
 
 .dropdown:hover .dropbutton-items {display: block;}
 
