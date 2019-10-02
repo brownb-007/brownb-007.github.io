@@ -126,6 +126,9 @@ h1 {
 .dropdown-items {
     display: inline-block;
     padding: 5px;
+}
+
+.dropdown-item {
     font-size: 18px;
     text-decoration: none;
     color: rgb(255, 153, 0);
