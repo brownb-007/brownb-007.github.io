@@ -68,8 +68,7 @@ h1 {
 
 /* Fist Immage on page*/
 .image1 {
-    margin-left: auto;
-    margin-right: auto;
+    float: right;
     display: block;
     padding: 60px;
 }
