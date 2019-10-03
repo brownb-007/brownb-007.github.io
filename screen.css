@@ -65,6 +65,11 @@ h1 {
     background-image: url(Sisters.png);
 }
 
+/* Color of Nav Bar */
+.navExample {
+    background-color: black;
+}
+
 /* Fist Immage on page*/
 .image1 {
     margin-left: auto;
