@@ -129,8 +129,8 @@ h1 {
 
 
 .dropbutton-items {
-    position: absolute;
     display: none;
+    position: absolute;
     background-color: black;
     min-width: 160px;
     box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
@@ -142,11 +142,11 @@ h1 {
     text-decoration: none;
     color: rgb(255, 153, 0);
     padding: 2px;
+    display: block;
 }
 
-.dropbutton-items a:hover {background-color: black;}
 
-.dropdown:hover .dropdown-items {
+.dropdown:hover .dropbutton-items {
     display: block;
   }
 
