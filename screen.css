@@ -137,6 +137,7 @@ h1 {
 
 .dropbutton-items a {
     float:none;
+    display: block;
     text-decoration: none;
     color: rgb(255, 153, 0);
     padding: 2px;
