@@ -144,7 +144,7 @@ h1 {
   }
   
 .dropdown-content a:hover {
-    background-color: white;
+    background-color: rgb(196, 66, 66);
   }
   
 .dropdown:hover .dropdown-content {
