@@ -108,7 +108,7 @@ h1 {
 }
 
 /* Assignments Button*/
-.dropbtn {
+.dropdown .dropbtn {
     width:150px;
     height:50px;
     line-height:50px;
@@ -123,8 +123,7 @@ h1 {
 
 /* Dropdown*/
 .dropdown {
-    position: relative;
-    display: inline-block;
+    overflow: hidden;
   }
 
 
@@ -138,13 +137,16 @@ h1 {
 }
 
 .dropbutton-items a {
-    font-size: 18px;
+    float:none;
     text-decoration: none;
     color: rgb(255, 153, 0);
     padding: 2px;
-    display: block;
+    text-align: left;
 }
 
+.dropdown-items a:hover {
+    background-color: grey;
+}
 
 .dropdown:hover .dropbutton-items {
     display: block;
