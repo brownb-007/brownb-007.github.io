@@ -56,6 +56,7 @@ a {
 
 p {
   color: rgb(9, 109, 109);
+  text-align: center;
 }
 
     /* Header */
@@ -68,7 +69,6 @@ p {
   text-shadow: 10px 10px 30px #121516;
   font-size: 48px;
   font-family: 'Mansalva', cursive;
-  padding: 100px;
   text-align: center;
 }
 .display-4 {
@@ -77,10 +77,4 @@ p {
   font-size: 32px;
   font-family: 'Mansalva', cursive;
   text-align: center;
-}
-
-.footer {
-    text-align: center;
-    padding: 20px;
-    color: green;
 }
