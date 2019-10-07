@@ -55,13 +55,16 @@ a {
     color: #009ce0; }
 
 p {
-  color: rgb(9, 109, 109);
+  color: black;
   text-align: center;
 }
 
 p a {
-  text-align: center;
   padding: 3px;
+}
+
+h2 {
+  text-align:center;
 }
 
     /* Header */
