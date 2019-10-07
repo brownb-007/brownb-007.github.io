@@ -57,10 +57,11 @@ a {
 p {
   color: black;
   text-align: center;
+  padding: 10px;
 }
 
 p a {
-  padding: 3px;
+  padding: 5px;
 }
 
 h3 {
