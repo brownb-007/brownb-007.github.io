@@ -54,13 +54,17 @@ a {
   a:hover {
     color: #009ce0; }
 
+p {
+  color: rgb(9, 109, 109);
+}
+
     /* Header */
 .jumbotron {
     background-image: url(Sisters.png);
 }
 
 .display-3 {
-  color: aqua;
+  color: rgb(9, 109, 109);
   text-shadow: 10px 10px 30px #121516;
   font-size: 48px;
   font-family: 'Mansalva', cursive;
@@ -68,9 +72,9 @@ a {
   text-align: center;
 }
 .display-4 {
-  color: aqua;
+  color: rgb(9, 109, 109);
   text-shadow: 10px 10px 30px #121516;
-  font-size: 48px;
+  font-size: 32px;
   font-family: 'Mansalva', cursive;
   padding: 100px;
   text-align: center;
