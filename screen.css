@@ -56,13 +56,24 @@ a {
 
     /* Header */
 .jumbotron {
-    color: aqua;
-    text-shadow: 10px 10px 30px #121516;
-    font-size: 48px;
-    font-family: 'Mansalva', cursive;
-    padding: 100px;
-    text-align: center;
     background-image: url(Sisters.png);
+}
+
+.display-3 {
+  color: aqua;
+  text-shadow: 10px 10px 30px #121516;
+  font-size: 48px;
+  font-family: 'Mansalva', cursive;
+  padding: 100px;
+  text-align: center;
+}
+.display-4 {
+  color: aqua;
+  text-shadow: 10px 10px 30px #121516;
+  font-size: 48px;
+  font-family: 'Mansalva', cursive;
+  padding: 100px;
+  text-align: center;
 }
 
 .footer {
