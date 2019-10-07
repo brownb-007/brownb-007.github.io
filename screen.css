@@ -68,6 +68,10 @@ h3 {
   text-align:center;
 }
 
+.heading-p {
+  padding: 12px;
+}
+
     /* Header */
 .jumbotron {
     background-image: url(Sisters.png);
