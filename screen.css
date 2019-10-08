@@ -18,8 +18,9 @@ time, mark, audio, video {
   font: inherit;
   vertical-align: baseline; }
 
-body {
-  line-height: 1; }
+  body {
+    padding-top: 3.5rem;
+  }
 
 ol, ul {
   list-style: none; }
@@ -57,14 +58,17 @@ a {
 p {
   color: black;
   text-align: center;
-  padding: 10px;
+  padding: 20px;
   font-size: 24px;
 }
 
 p a {
-  padding: 5px;
+  padding: 8px;
 }
 
+.container {
+  text-align:center;
+}
 
 .heading-p {
   padding: 12px;
@@ -78,10 +82,10 @@ p a {
 .display-3 {
   color:black;
   text-shadow: 1px 2px 3px white;
-  font-size: 48px;
+  font-size: 64px;
   font-family: 'Mansalva', cursive;
   text-align: center;
-  padding: 5px;
+  padding: 8px;
 }
 .display-4 {
   color: black;
@@ -90,3 +94,4 @@ p a {
   font-family: 'Mansalva', cursive;
   text-align: center;
 }
+
