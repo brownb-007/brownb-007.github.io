@@ -48,7 +48,9 @@ article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, 
 
 body {
   font-family: sans-serif;
-  color: #2a2a2a; }
+  background-color: #5ab4fd;
+  color: #020607;
+}
 
 a {
   color: #0388a6; }
