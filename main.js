@@ -19,10 +19,3 @@ document.addEventListener("DOMContentLoaded", function() {
       this.style.color = 'green'
     }
   })
-
-  $( document ).ready(function() {
-    $( "#firstHeader" ).click(function() {
-      $( "#firstHeader" ).fadeOut( "slow", function() {
-      });
-    });
-  });
