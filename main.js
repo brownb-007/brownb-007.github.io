@@ -19,3 +19,25 @@ document.addEventListener("DOMContentLoaded", function() {
       this.style.color = 'green'
     }
   })
+
+  $( document ).ready(function() {
+    $( "#firstHeader" ).click(function() {
+      $( "#firstHeader" ).fadeOut( "slow", function() {
+      });
+    });
+  });
+
+  $( document ).ready(function() {
+    $( "#pgd" ).click(function() {
+      $( "#body1" ).fadeOut( "slow", function() {
+      });
+    });
+  });
+
+  $( document ).ready(function() {
+    $( "#mainHeader" ).click(function() {
+      $( "#mainHeader" ).fadeOut( "slow", function() {
+      });
+    });
+  });
+
