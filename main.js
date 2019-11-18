@@ -27,12 +27,6 @@ document.addEventListener("DOMContentLoaded", function() {
     });
   });
 
-  $( document ).ready(function() {
-    $( "#pgd" ).click(function() {
-      $( "#body1" ).fadeOut( "slow", function() {
-      });
-    });
-  });
 
   $( document ).ready(function() {
     $( "#mainHeader" ).click(function() {
