@@ -59,7 +59,7 @@ a {
 p {
   color: black;
   text-align: center;
-  padding: 20px;
+  padding: 10px;
   font-size: 24px;
 }
 
@@ -99,4 +99,5 @@ p a {
 #pgd {
   text-align:center;
 }
+
 
