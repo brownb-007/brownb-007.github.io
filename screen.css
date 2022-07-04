@@ -80,7 +80,6 @@ p a {
   color:black;
   text-shadow: 1px 2px 3px rgb(175, 175, 175);
   font-size: 64px;
-  font-family: 'Mansalva', cursive;
   text-align: center;
   padding: 8px;
 }
@@ -88,7 +87,6 @@ p a {
   color: black;
   text-shadow: 1px 2px 3px rgb(175, 175, 175);
   font-size: 32px;
-  font-family: 'Mansalva', cursive;
   text-align: center;
 }
 
